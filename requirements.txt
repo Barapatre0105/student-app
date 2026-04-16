@@ -1,4 +1,4 @@
 pandas
 Numpy
-pickle
+pickle5
 scikit-learn
